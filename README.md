@@ -31,6 +31,7 @@ LobbySystem alles einstellbar / A LobbySystem with all Configs --- by iTzFreeHD
 - Wenn das oben genannte dir nocht hilft kannst du uns über den discord kontaktieren Link: https://discord.gg/Kna6D9f
 ------------
 ### Wichtig:
+- Slots sind von 0-8
 - Bitte beachte das ```Teleporter:``` gleich wie ```name: §6Teleporter``` nur das bei dem "name" Farbsymbole gesetzt werden dürfen. Falls das nicht der fall ist können fehler entstehen. In folgenden Versionen wird dieses Problem behoben sein!
 
 #### Richtig:
