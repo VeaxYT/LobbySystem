@@ -1,2 +1,2 @@
 # LobbySystem
-Ein voll Configureirbares LobbySystem / A LobbySystem with all Configs
+LobbySystem alles einstellbar / A LobbySystem with all Configs
