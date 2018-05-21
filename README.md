@@ -65,7 +65,7 @@ Main:
 | tp-spawn | action: 'tp:spawn' | Teleportiert den Spieler zum Weltpawm |
 
 ### Adons:
-- Particle -> Soon
+- [Particle](https://github.com/Hyroxing/LobbyParticle-AddON)
 - PlayerHider -> Soon
 -----
 ## Items.yml
