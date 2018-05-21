@@ -4,6 +4,9 @@ LobbySystem alles einstellbar / A LobbySystem with all Configs
 --------------------
 ## German:
 
+### Achtung:
+- Bevor du das Plugin beginnst einzustellen lese dir den aspeckt [Wichtig](#Wichtig)__ durch!
+
 ### Instalieren:
 - Das plugin in den Plugin ordners deines Servers kopieren. 
 - Den Server restarten. 
