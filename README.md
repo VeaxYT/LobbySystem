@@ -8,7 +8,7 @@ LobbySystem alles einstellbar / A LobbySystem with all Configs
 - Das plugin in den Plugin ordners deines Servers kopieren. 
 - Den Server restarten. 
 - Fertig!
-
+-----
 
 ```php
 ---
