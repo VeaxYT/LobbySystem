@@ -1,6 +1,11 @@
 # LobbySystem
 LobbySystem alles einstellbar / A LobbySystem with all Configs --- by iTzFreeHD
-
+## Terms and Conditions:
+- This plugin is free to use, you are not allowed to sell it or get any payment for it.
+- You are not allowed to claim this plugin or any parts of it as yours
+- You are not allowed to change the plugin.yml or any parts of it
+- You are not allowed to publish this plugin without giving credits(Link to this Repo, Link to Hyroxing account...)
+### With downloading the plugin, you agree to the points above
 --------------------
 ### Download .phar:
 - [![Download .phar](https://poggit.pmmp.io/ci/Hyroxing/LobbySystem/LobbySystem+-+iTzFreeHDv2)](https://poggit.pmmp.io/ci/Hyroxing/LobbySystem/LobbySystem+-+iTzFreeHDv2)
