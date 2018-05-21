@@ -3,7 +3,7 @@ LobbySystem alles einstellbar / A LobbySystem with all Configs --- by iTzFreeHD
 
 --------------------
 ### Download .phar:
-- [Download .phar](https://poggit.pmmp.io/ci/Hyroxing/LobbySystem)
+- [Download .phar(#)](https://poggit.pmmp.io/ci/Hyroxing/LobbySystem)
 --------------------
 ## German:
 
