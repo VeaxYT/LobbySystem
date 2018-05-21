@@ -5,7 +5,7 @@ LobbySystem alles einstellbar / A LobbySystem with all Configs
 ## German:
 
 ### Achtung:
-- Bevor du das Plugin beginnst einzustellen lese dir den aspeckt [Wichtig](#wichtig) durch!
+- Bevor du das Plugin beginnst einzustellen lese dir den Aspeckt [Wichtig](#wichtig) durch!
 
 ### Instalieren:
 - Das plugin in den Plugin ordners deines Servers kopieren. 
@@ -47,10 +47,20 @@ Main:
     action: menu:Info
     permissions: ""
 ```
----------
+-----
+### Guide:
+
+- Actions:
+| Actions  | Benutzung | Bedeutung |
+| ------------- | ------------- | | ------------- | 
+| msg | action: 'msg: Hello World' | Sendet dem Spieler eine Nachricht |
+| cmd | action: 'cmd:freeparticle' | Führt einen befehl für den Spieler aus |
+| menu | action: 'menu:Main' | Öffnet das jeweils angegebene Menu |
+
+
+
 
 -----
-
 ## Items.yml
 ```php
 ---
