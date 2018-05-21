@@ -17,7 +17,8 @@ LobbySystem alles einstellbar / A LobbySystem with all Configs
 - [x] No-Hunger
 - [x] No-Damage
 - [x] No-Drop
-- [x] NO-Viod
+- [x] No-Void
+- [x] No-Permission-MSG
 
 -----
 
