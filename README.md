@@ -11,8 +11,17 @@ LobbySystem alles einstellbar / A LobbySystem with all Configs
 
 ### Beschreibung:
 - Das LobbySystem ist ein Plugin welches den Benutzern das einstellen der Items einfacher macht. So kann man jedes einzelne Item einzelnt in der Config einstellen. Ausserdem lässt sich über die "action" funktion etwas ausführen z.B. ```action:  cmd:gamemode 1 ```.
+
+### Eigenschaften:
+- [x] Alles einstellbar
+- [x] No-Hunger
+- [x] No-Damage
+- [x] No-Drop
+- [x] NO-Viod
+
 -----
 
+##Items.yml
 ```php
 ---
 Build-Perms: lobby.build
