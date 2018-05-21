@@ -23,6 +23,9 @@ LobbySystem alles einstellbar / A LobbySystem with all Configs
 - [x] No-Void
 - [x] No-Permission-MSG
 
+### Hilfe?
+- Wenn du hilfe brachst schau dir den Aspekt [Guide](#guide) einmal genau an.
+- Wenn das oben genannte dir nocht hilft kannst du uns über den discord kontaktieren Link: https://discord.gg/Kna6D9f
 ------------
 ### Wichtig:
 - Bite beachte das ```Teleporter:``` gleich wie ```name: §6Teleporter``` nur das bei dem "name" Farb symbole gesetzt werden dürfen. Falls das nicht der fall ist können fehler entstehen.
