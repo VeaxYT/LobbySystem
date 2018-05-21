@@ -39,20 +39,12 @@ LobbySystem alles einstellbar / A LobbySystem with all Configs --- by iTzFreeHD
 Main:
   Teleporter:
     name: §6Teleporter
-    id: "345:0:1"
-    slot: 3
-    action: menu:Info
-    permissions: ""
 ```
 #### Falsch:
 ```php
 Main:
-  TP:
+  Test:
     name: §6Teleporter
-    id: "345:0:1"
-    slot: 3
-    action: menu:Info
-    permissions: ""
 ```
 -----
 ### Guide:
