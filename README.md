@@ -65,7 +65,7 @@ Main:
 | cmd | action: 'cmd:freeparticle' | Führt einen befehl für den Spieler aus |
 | menu | action: 'menu:Main' | Öffnet das jeweils angegebene Menu |
 | tp | action: 'tp:X:Y:Z' | Teleportiert den Spieler zu den angegebenen Kordinaten |
-| tp | action: 'tp:spawn' | Teleportiert den Spieler zum Weltpawm |
+| tp-spawn | action: 'tp:spawn' | Teleportiert den Spieler zum Weltpawm |
 
 ### Adons:
 - Particle -> Soon
