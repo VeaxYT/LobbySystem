@@ -20,9 +20,32 @@ LobbySystem alles einstellbar / A LobbySystem with all Configs
 - [x] No-Void
 - [x] No-Permission-MSG
 
+### Wichtig:
+#### Richtig:
+```php
+Main:
+  Teleporter:
+    name: §6Teleporter
+    id: "345:0:1"
+    slot: 3
+    action: menu:Info
+    permissions: ""
+```
+#### Falsch:
+```php
+Main:
+  TP:
+    name: §6Teleporter
+    id: "345:0:1"
+    slot: 3
+    action: menu:Info
+    permissions: ""
+```
+
+
 -----
 
-##Items.yml
+## Items.yml
 ```php
 ---
 Build-Perms: lobby.build
