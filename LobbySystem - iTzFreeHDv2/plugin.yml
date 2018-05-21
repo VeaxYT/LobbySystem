@@ -1,0 +1,20 @@
+name: LobbySystem-Hyroxing
+main: iTzFreeHD\LB\LobbySystem
+author: iTzFreeHD-Hyroxing-Dev
+api:
+- 3.0.0-ALPHA7
+- 3.0.0-ALPHA8
+- 3.0.0-ALPHA9
+- 3.0.0-ALPHA10
+- 3.0.0-ALPHA12
+version: 1.0-BETA§8-§bby Hyroxing-Development=>iTzFreeHD§a
+commands:
+  build:
+    description: Build mode
+    default: op
+  spawn:
+    description: Teleports to Spwan
+  staff:
+      description: Only Staff
+  lbmain:
+        description: get Main Items
