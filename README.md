@@ -25,7 +25,7 @@ LobbySystem alles einstellbar / A LobbySystem with all Configs
 
 ------------
 ### Wichtig:
-- Bite beachte das ```Teleporter:``` gleich wie ```name: §6Teleporter``` nur das bei dem "name" Farb symbole gesetzt werden. Falls das nicht der fall ist können fehler entstehen.
+- Bite beachte das ```Teleporter:``` gleich wie ```name: §6Teleporter``` nur das bei dem "name" Farb symbole gesetzt werden dürfen. Falls das nicht der fall ist können fehler entstehen.
 
 #### Richtig:
 ```php
