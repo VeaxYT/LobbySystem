@@ -52,7 +52,7 @@ Main:
 
 - Actions:
 | Actions  | Benutzung | Bedeutung |
-| ------------- | ------------- | | ------------- | 
+| ------------- | ------------- |------------- | 
 | msg | action: 'msg: Hello World' | Sendet dem Spieler eine Nachricht |
 | cmd | action: 'cmd:freeparticle' | Führt einen befehl für den Spieler aus |
 | menu | action: 'menu:Main' | Öffnet das jeweils angegebene Menu |
