@@ -63,9 +63,9 @@ Main:
 | tp | action: 'tp:X:Y:Z' | Teleportiert den Spieler zu den angegebenen Kordinaten |
 | menu | action: 'tp:spawn' | Teleportiert den Spieler zum Weltpawm |
 
-
-
-
+### Adons:
+- Particle -> Soon
+- PlayerHider -> Soon
 -----
 ## Items.yml
 ```php
