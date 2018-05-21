@@ -51,6 +51,7 @@ Main:
 ### Guide:
 
 - Actions:
+
 | Actions  | Benutzung | Bedeutung |
 | ------------- | ------------- |------------- | 
 | msg | action: 'msg: Hello World' | Sendet dem Spieler eine Nachricht |
