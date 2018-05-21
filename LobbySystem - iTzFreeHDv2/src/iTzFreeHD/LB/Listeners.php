@@ -52,6 +52,13 @@ class Listeners implements Listener {
         $pcfg = new Config($this->plugin->getDataFolder().'/player/'.$event->getPlayer()->getName().'.yml',Config::YAML);
         $menu = $pcfg->get('Menu');
         $fdata = $cfg->get($menu);
+
+        //Exit [Back]
+        if($in == c::RESET . c::RED . "Exit") {
+            $cfg = new Config($this->plugin->getDataFolder() . '/Items.yml', Config::YAML);
+            $JoinMenu = $cfg->get('JoinMenu');
+            $this->setItems($player, $JoinMenu);
+        }
         foreach ($fdata as $gdata) {
             if ($gdata['name'] == $in) {
                 $sdata = $cfg->get($menu);
@@ -78,7 +85,6 @@ class Listeners implements Listener {
                             } else {
                                 $event->getPlayer()->teleport(new Position($coords[0], $coords[1], $coords[2], $coords[3]), 0, 0);
                             }
-
                         }
 
 

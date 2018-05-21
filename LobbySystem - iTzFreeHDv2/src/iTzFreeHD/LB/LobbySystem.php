@@ -115,6 +115,7 @@ class LobbySystem extends PluginBase {
                     $pcfg->save();
 
                     $this->Listeners->setItems($sender, $JoinMenu);
+
                 }
 
             }
