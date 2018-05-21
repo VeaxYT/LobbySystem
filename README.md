@@ -34,6 +34,7 @@ LobbySystem alles einstellbar / A LobbySystem with all Configs --- by iTzFreeHD
 ### Hilfe?
 - Wenn du hilfe brachst schau dir den Aspekt [Guide](#guide) oder [Wichtig](#wichtig) einmal genau an.
 - Wenn das oben genannte dir nocht hilft kannst du uns über den discord kontaktieren Link: https://discord.gg/Kna6D9f
+- [AddOns](#addons)
 ------------
 ### Wichtig:
 - Slots sind von 0-8
@@ -64,7 +65,7 @@ Main:
 | tp | action: 'tp:X:Y:Z' | Teleportiert den Spieler zu den angegebenen Kordinaten |
 | tp-spawn | action: 'tp:spawn' | Teleportiert den Spieler zum Weltpawm |
 
-### Adons:
+### AddOns:
 - [Particle](https://github.com/Hyroxing/LobbyParticle-AddON)
 - PlayerHider -> Soon
 -----
