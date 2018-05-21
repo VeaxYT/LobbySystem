@@ -20,7 +20,10 @@ LobbySystem alles einstellbar / A LobbySystem with all Configs
 - [x] No-Void
 - [x] No-Permission-MSG
 
+------------
 ### Wichtig:
+- Bite beachte das ```Teleporter:``` gleich wie ```name: §6Teleporter``` nur das bei dem "name" Farb symbole gesetzt werden. Falls das nicht der fall ist können fehler entstehen.
+
 #### Richtig:
 ```php
 Main:
@@ -41,7 +44,7 @@ Main:
     action: menu:Info
     permissions: ""
 ```
-
+---------
 
 -----
 
