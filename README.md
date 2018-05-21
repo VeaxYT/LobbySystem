@@ -1,5 +1,5 @@
 # LobbySystem
-LobbySystem alles einstellbar / A LobbySystem with all Configs
+LobbySystem alles einstellbar / A LobbySystem with all Configs --- by iTzFreeHD
 
 --------------------
 ## German:
