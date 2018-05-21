@@ -16,7 +16,7 @@ LobbySystem alles einstellbar / A LobbySystem with all Configs --- by iTzFreeHD
 - Bevor du das Plugin beginnst einzustellen lese dir den Aspeckt [Wichtig](#wichtig) durch!
 
 ### Instalieren:
-- Das plugin in den Plugin ordners deines Servers kopieren. 
+- Das plugin in den Plugin ordner deines Servers kopieren. 
 - Den Server restarten. 
 - Fertig!
 
