@@ -28,7 +28,7 @@ LobbySystem alles einstellbar / A LobbySystem with all Configs
 - Wenn das oben genannte dir nocht hilft kannst du uns über den discord kontaktieren Link: https://discord.gg/Kna6D9f
 ------------
 ### Wichtig:
-- Bite beachte das ```Teleporter:``` gleich wie ```name: §6Teleporter``` nur das bei dem "name" Farb symbole gesetzt werden dürfen. Falls das nicht der fall ist können fehler entstehen.
+- Bitte beachte das ```Teleporter:``` gleich wie ```name: §6Teleporter``` nur das bei dem "name" Farbsymbole gesetzt werden dürfen. Falls das nicht der fall ist können fehler entstehen.
 
 #### Richtig:
 ```php
