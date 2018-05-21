@@ -2,7 +2,7 @@
 LobbySystem alles einstellbar / A LobbySystem with all Configs
 
 
-´´´php
+```php
 ---
 Build-Perms: lobby.build
 noHunger: true
@@ -51,4 +51,4 @@ Info:
     action: menu:Main
     permissions: ""
 ...
-´´´
+```
